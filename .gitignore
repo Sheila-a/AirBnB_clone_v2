@@ -1,0 +1,6 @@
+*/**/__pycache__/
+__pycache__/
+_tests/
+file.json
+main_delete.py
+main.py
